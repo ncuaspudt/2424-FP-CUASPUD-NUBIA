@@ -5,8 +5,6 @@ matriz = [
     [8, 9, 5]
 ]
 
-
-
 # Función para ordenar una fila de manera ascendente utilizando Bubble Sort
 def bubble_sort_fila(fila):
     n = len(fila)
