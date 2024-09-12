@@ -26,6 +26,7 @@ ciudades_temperaturas = {
     "Guaranda": [29, 31, 30, 31, 32]
 }
 
+
 # Esta función  calculara las temperaturas promedio
 temperaturas_promedio = temperatura_promedio(ciudades_temperaturas)
 
