@@ -7,6 +7,7 @@ informacion_personal = {
     "profesion": "Licenciado"
 }
 
+
 # Acceder y Modificar Valores
 ciudad_actual = informacion_personal["ciudad"]
 print(f"Ciudad actual: {ciudad_actual}")  # Imprimir la ciudad actual
